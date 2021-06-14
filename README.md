@@ -5,6 +5,9 @@
 An android app for friends and roommates to track bills and other shared expenses, so that everyone gets paid back.   
 TripSplit is the easiest way to share expenses with friends and family and stop stressing about “who owes who.”   
 
+## Pre-Requisites
+
+* Strong Knowledge of Graph Data Structure.
 
 ## Specifications
 
