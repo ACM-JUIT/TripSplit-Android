@@ -8,6 +8,8 @@ TripSplit is the easiest way to share expenses with friends and family and stop 
 ## Pre-Requisites
 
 * Strong Knowledge of Graph Data Structure.
+* Breadth First Search.
+* Dinic's Maxflow Algortithm.
 
 ## Specifications
 
