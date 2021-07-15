@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item xmlns:app="http://schemas.android.com/apk/res-auto"
+      android:id="@+id/menuDashboard"
+      android:icon="@drawable/ic_dashboard_black_24dp"
+      android:title="Dashboard"
+      />
+  <item
+    android:id="@+id/menuRecent"
+    android:icon="@drawable/recent"
+    android:title="Recent Trips"/>
+
+  <item
+    android:id="@+id/addMoney"
+      android:icon="@drawable/ic_baseline_add_circle_outline_24"
+      android:title="Add Money" />
+
+  <item
+    android:id="@+id/menuAdd"
+    android:icon="@drawable/airplane"
+    android:title="Add Trip"/>
+<item
+  android:id="@+id/menuProfile"
+  android:icon="@drawable/ic_baseline_account_circle_24"
+  android:title="Profile"/>
+
+</menu>
